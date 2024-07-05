@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @k-laig
-- 👀 I’m interested in gamedev, digital (analog) art (such avidemux datamoshing things or file corruption through hex or audacity), ethical hacking, OSINT, GNU / Alternating OS and App Development
-- 🌱 I’m currently learning []
-- 💞️ I’m looking to collaborate on []
-- 📫 How to reach me: konrad.laig@proton.me
+- 👀 I’m interested.
+- 🌱 I’m currently learning.
+- 💞️ I’m good looking.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: []
 
